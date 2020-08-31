@@ -1,4 +1,4 @@
-# 🌄On vacation
+<img src="https://github.com/awatarek/awatarek/blob/master/awatarek.gif" width="550px">
 
 ## Hi there 👋
 - 🔭 I’m currently working on [Paragonit-angular](https://paragonit.pl), fse_database
