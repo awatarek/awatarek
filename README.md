@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Innovox.com.pl site, fse_database
 - 🌱 I’m currently learning Angular, firebase
 - 📫 How to reach me: 📧[bartoszkrupa5@gmail.com](mailto:bartoszkrupa5@gmail.com), 💻discord: awatarek#5042
-- 📄 [Resume PL](https://drive.google.com/file/d/17VyzpNVJIZQaK-NnlO5pZWW5yUU0t3VO/view?usp=sharing)
+- 📄 [Resume PL](https://drive.google.com/file/d/1q71VchSkrb3jJ0Bdq6ZHM75iLJQyDD_g/view?usp=sharing)
 ## Skills
 
 <div>
