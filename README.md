@@ -1,8 +1,8 @@
 <img src="https://github.com/awatarek/awatarek/blob/master/awatarek.gif" width="550px">
 
 ## Hi there 👋
-- 🔭 I’m currently working on fse_SHK-Z_database, school things
-- 🌱 I’m currently learning Angular, Java
+- 🔭 I’m currently working on fse_SHK-Z_database, school things, paragonit
+- 🌱 I’m currently learning Angular, Java, firebase, stripe API
 - 📫 How to reach me: 📧[bartoszkrupa5@gmail.com](mailto:bartoszkrupa5@gmail.com), 💻discord: awatarek#5042
 - 📄 [Resume PL](https://drive.google.com/file/d/1q71VchSkrb3jJ0Bdq6ZHM75iLJQyDD_g/view?usp=sharing)
 ## Skills
