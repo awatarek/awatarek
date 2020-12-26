@@ -1,5 +1,3 @@
-<img src="https://github.com/awatarek/awatarek/blob/master/awatarek.gif" width="550px">
-
 ## Hi there 👋
 - 🔭 I’m currently working on fse_SHK-Z_database, school things, paragonit
 - 🌱 I’m currently learning Angular, Java, firebase, stripe API
