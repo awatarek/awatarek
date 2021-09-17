@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on fse_SHK-Z_database, school things
+- 🔭 I’m currently working on forum-mlodych.pl front/back
 - 🌱 I’m currently learning Angular, Java
 - 📫 How to reach me: 📧[bartoszkrupa5@gmail.com](mailto:bartoszkrupa5@gmail.com), 💻discord: awatarek#5042
 - 📄 [Resume PL 2021-04](https://drive.google.com/file/d/1ck2sivyYNFpU01T4Fd7SZ7B51TuF9ioh/view?usp=sharing)
