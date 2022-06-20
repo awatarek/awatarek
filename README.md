@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on forum-mlodych.pl front(angular), ewronopluted.pl front(angular)/back(nodeJS)
-- 🌱 I’m currently learning Angular, Java, GSAP, threeJS
+- 🔭 I’m currently working on forum-mlodych.pl front(angular), foto-flow(foto managing app) front(angular) back(nodejs)
+- 🌱 I’m currently learning Angular, Java, NodeJS
 - 📫 How to reach me: 📧[bartoszkrupa5@gmail.com](mailto:bartoszkrupa5@gmail.com), 💻discord: awatarek#5042
 - 📄 [Resume PL 2021-08](https://drive.google.com/file/d/1ck2sivyYNFpU01T4Fd7SZ7B51TuF9ioh/view?usp=sharing)
 ## Skills
