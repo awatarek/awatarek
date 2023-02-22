@@ -1,7 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on forum-mlodych.pl front(angular), foto-flow(foto managing app) front(angular) back(nodejs)
-- 🌱 I’m currently learning Angular, Java, NodeJS
-- 📫 How to reach me: 📧[bartoszkrupa5@gmail.com](mailto:bartoszkrupa5@gmail.com), 💻discord: awatarek#5042
+- 🔭 I’m currently working on forum-mlodych.pl front(angular), Banking app front(angular)/back(Java/spring)
+- 🌱 I’m currently learning Angular, Java Spring Boot
+- 📫 How to reach me: 📧[kontakt@bartoszkrupa.pl](mailto:kontakt@bartoszkrupa.pl), 💻discord: awatarek#5042
 - 📄 [Resume PL 2022](https://drive.google.com/file/d/1LwNf1-TB8MuuaKNTRQDp9zZns9l7vhSU/view?usp=sharing)
 ## Skills
 
